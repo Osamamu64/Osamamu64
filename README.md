@@ -1,11 +1,5 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-
-# Hi, I'm Osama 
+# Hi, I'm Osama AKA Simba 🦁 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/osama.elsh/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/osama-elshareef-550119214/)
@@ -45,4 +39,4 @@ and focusing on desing and implementing projects to build up my resume.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-# Simba
+
