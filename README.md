@@ -1,14 +1,13 @@
 
 # Hi, I'm Osama AKA Simba 🦁 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/osama.elsh/)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/osama-elshareef-550119214/)
 
-I am a frontend developer who is willing to step up to be a fullstack developer one day. At the present time, i am studying at 42 Abu Dhabi, 
-and focusing on desing and implementing projects to build up my resume. 
+I am a frontend developer who is transitioning to be a fullstack and AI developer. 
 
 -  💫 Looking for opportunies
-- 🌿 Currently learning **React**, **NodeJS**
+- 🌿 Currently learning **.NET**, **Machine Learning**
 
 ## Tools & Technologies
 
